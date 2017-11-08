@@ -1,3 +1,5 @@
+.gitignore
+.ipynb_checkpoints
 current_best.csv
 pred.csv
 X_test.npy
